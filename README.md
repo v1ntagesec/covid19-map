@@ -17,17 +17,13 @@ npm install
 npm run start
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
 👤 **Azril Hafizi**
 
 * Github: [@lightofheaven98](https://github.com/lightofheaven98)
+
 
 ## Show your support
 
